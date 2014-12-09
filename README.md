@@ -2,6 +2,7 @@ shinmuro.util
 ================================================================================
 
 **JAPANESE DOCUMENTATION ONLY**
+
 INTERNAL miscellaneous utility functions.
 
 内部的に使用してるユーティリティ関数集。個人的に利用頻度が高いのをここにまとめてます。
@@ -14,7 +15,7 @@ INTERNAL miscellaneous utility functions.
 [shinmuro/util "x.x.x"]
 ```
 
-後は [API doc]() 見て気に入ったのあれば、使いたい所で以下など追加してお使い下さい。
+後は [API doc](http://shinmuro.github.io/util/doc/) 見て気に入ったのあれば、使いたい所で以下など追加してお使い下さい。
 ```clojure
 (use 'shinmuro.util)
 ```
