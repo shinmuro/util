@@ -10,10 +10,13 @@ INTERNAL miscellaneous utility functions.
 
 ## Usage
 
-``project.clj`` に以下追加して``lein`` ``deps``します。
+~~``project.clj`` に以下追加して``lein`` ``deps``します。~~
 ```clojure
-[shinmuro/util "x.x.x"]
+~~[shinmuro/util "x.x.x"]~~
 ```
+
+Clojars に deploy してませんのでしばしお待ち下さい。
+ここのリポジトリをそれぞれ git clone して lein install すれば使用可能です。
 
 後は [API doc](http://shinmuro.github.io/util/doc/) 見て気に入ったのあれば、使いたい所で以下など追加してお使い下さい。
 ```clojure
