@@ -16,7 +16,7 @@ INTERNAL miscellaneous utility functions.
 ```
 
 Clojars に deploy してませんのでしばしお待ち下さい。
-ここのリポジトリをそれぞれ git clone して lein install すれば使用可能です。
+ローカルで構わなければここのリポジトリをそれぞれ git clone して lein install すれば使用可能です。
 
 後は [API doc](http://shinmuro.github.io/util/doc/) 見て気に入ったのあれば、使いたい所で以下など追加してお使い下さい。
 ```clojure
